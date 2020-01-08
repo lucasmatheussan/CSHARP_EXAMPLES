@@ -1,0 +1,11 @@
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/obj/Debug/netcoreapp3.1/2-INSTRUCOES.csprojAssemblyReference.cache
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/obj/Debug/netcoreapp3.1/2-INSTRUCOES.AssemblyInfoInputs.cache
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/obj/Debug/netcoreapp3.1/2-INSTRUCOES.AssemblyInfo.cs
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/bin/Debug/netcoreapp3.1/2-INSTRUCOES
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/bin/Debug/netcoreapp3.1/2-INSTRUCOES.deps.json
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/bin/Debug/netcoreapp3.1/2-INSTRUCOES.runtimeconfig.json
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/bin/Debug/netcoreapp3.1/2-INSTRUCOES.runtimeconfig.dev.json
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/bin/Debug/netcoreapp3.1/2-INSTRUCOES.dll
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/bin/Debug/netcoreapp3.1/2-INSTRUCOES.pdb
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/obj/Debug/netcoreapp3.1/2-INSTRUCOES.dll
+/home/lucasmatheus/DOTNET/CSHARP_EXAMPLES/2-INSTRUCOES/obj/Debug/netcoreapp3.1/2-INSTRUCOES.pdb

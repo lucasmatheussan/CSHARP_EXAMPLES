@@ -1,0 +1,11 @@
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/obj/Debug/netcoreapp3.1/3-CLASSES.csprojAssemblyReference.cache
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/obj/Debug/netcoreapp3.1/3-CLASSES.AssemblyInfoInputs.cache
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/obj/Debug/netcoreapp3.1/3-CLASSES.AssemblyInfo.cs
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/bin/Debug/netcoreapp3.1/3-CLASSES
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/bin/Debug/netcoreapp3.1/3-CLASSES.deps.json
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/bin/Debug/netcoreapp3.1/3-CLASSES.runtimeconfig.json
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/bin/Debug/netcoreapp3.1/3-CLASSES.runtimeconfig.dev.json
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/bin/Debug/netcoreapp3.1/3-CLASSES.dll
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/bin/Debug/netcoreapp3.1/3-CLASSES.pdb
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/obj/Debug/netcoreapp3.1/3-CLASSES.dll
+/home/lucasmatheus/estudos_codigos/DOTNET/CSHARP_EXAMPLES/3-CLASSES/obj/Debug/netcoreapp3.1/3-CLASSES.pdb

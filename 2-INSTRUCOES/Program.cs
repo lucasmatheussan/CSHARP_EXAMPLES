@@ -121,18 +121,18 @@ namespace _2_INSTRUCOES
        }
        static void Main(string [] args){
             string [] palavra = "p ap l as v r pa".Split(" "); 
-            // Declaracoes();
-            // intruscoesIF(palavra);
-            // IntrucoesSwitch(palavra);
-            // InstrucoesWhile(palavra);
-            // IntrucoesDoWhile(palavra);
-            // IntrucoesFor(palavra);
-            // IntrucoesForeach(palavra);
-            // IntrucoesBreak();
+            //Declaracoes();
+            //intruscoesIF(palavra);
+            //IntrucoesSwitch(palavra);
+            //InstrucoesWhile(palavra);
+            //IntrucoesDoWhile(palavra);
+            //IntrucoesFor(palavra);
+            //IntrucoesForeach(palavra);
+            //IntrucoesBreak();
             //InstrucoesContinue(palavra);
-            // IntrucoesSwitch(palavra);
+            //IntrucoesSwitch(palavra);
             //IntrucoesTryCatchFinallyThrow(palavra);
-            IntrucaoUsing(palavra);
+            //IntrucaoUsing(palavra);
 
         }
     }
